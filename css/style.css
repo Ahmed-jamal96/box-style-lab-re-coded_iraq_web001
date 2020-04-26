@@ -5,6 +5,8 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
+  background: linear-gradient(to right,#FFF,#000);
+  box-sizing: border-box;
 }
 
 .container, h1 {
